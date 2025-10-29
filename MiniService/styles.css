@@ -147,8 +147,9 @@ a {
     align-content: center;
     width: auto;
     height: auto;
-    padding: 5px 10px;
-    background-color: #000a;
+    padding: 10px 20px;
+    background-color: #0005;
+    border-radius: 5px;
 }
 
 .container .logo img {
@@ -193,6 +194,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

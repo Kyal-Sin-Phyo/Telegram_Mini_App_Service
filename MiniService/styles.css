@@ -187,17 +187,21 @@ a {
 }
 
 .detailsTitle {
-    padding: 8px 10px;
+    width: 100%;
+    padding: 5px 0;
     margin: 0 0 10px;
     background: #000c;
     border-radius: 0 15px;
 }
 
 .details {
+    width: 90vw;
     text-align: left;
     background-color: #000a;
-    padding: 20px 30px;
     border-radius: 5px;
+    font-size: 10px;
+    line-height: 2em;
+    list-style: none;
 }
 
 .footer {
@@ -208,6 +212,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

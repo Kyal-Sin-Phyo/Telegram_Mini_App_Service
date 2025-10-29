@@ -147,6 +147,8 @@ a {
     align-content: center;
     width: auto;
     height: auto;
+    padding: 5px 10px;
+    background-color: #000a;
 }
 
 .container .logo img {
@@ -191,6 +193,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

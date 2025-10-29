@@ -149,7 +149,7 @@ a {
     height: auto;
     padding: 10px 20px;
     background-color: #0005;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .container .logo img {
@@ -194,6 +194,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

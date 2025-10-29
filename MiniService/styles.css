@@ -107,6 +107,8 @@ a {
     text-align: left;
     font-size: 23x;
     background: linear-gradient(45deg, #f00, #ff0, #0ff);
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
@@ -188,6 +190,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

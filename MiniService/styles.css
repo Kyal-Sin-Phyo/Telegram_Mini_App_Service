@@ -6,8 +6,8 @@
 }
 
 html {
-    width: 355px;
-    height: 720px;
+    width: 360px;
+    height: 100vh;
     margin: 0 auto;
 }
 body {
@@ -188,4 +188,5 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 

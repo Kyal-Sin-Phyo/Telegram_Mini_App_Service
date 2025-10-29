@@ -169,6 +169,8 @@ a {
 .subContainer .mainServices {
     display: inline;
     background: linear-gradient(45deg, #f00, #ff0, #0af);
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
@@ -190,6 +192,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 

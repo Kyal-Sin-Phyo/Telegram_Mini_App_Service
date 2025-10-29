@@ -142,6 +142,7 @@ a {
 /* ===== Services ===== */
 
 .container {
+    text-align: center;
     justify-items: center;
     align-content: center;
     width: auto;
@@ -190,6 +191,7 @@ a {
     font-size: 10px;
     color: #808080;
 }
+
 
 
 
